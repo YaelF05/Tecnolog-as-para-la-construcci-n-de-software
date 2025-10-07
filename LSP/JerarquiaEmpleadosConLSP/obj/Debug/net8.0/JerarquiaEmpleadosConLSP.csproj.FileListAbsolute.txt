@@ -1,0 +1,14 @@
+C:\Users\zS23017379\Documents\EJEMPLO PRACTICO\jerarquiaEmpleadosConLSP\bin\Debug\net8.0\JerarquiaEmpleadosConLSP.exe
+C:\Users\zS23017379\Documents\EJEMPLO PRACTICO\jerarquiaEmpleadosConLSP\bin\Debug\net8.0\JerarquiaEmpleadosConLSP.deps.json
+C:\Users\zS23017379\Documents\EJEMPLO PRACTICO\jerarquiaEmpleadosConLSP\bin\Debug\net8.0\JerarquiaEmpleadosConLSP.runtimeconfig.json
+C:\Users\zS23017379\Documents\EJEMPLO PRACTICO\jerarquiaEmpleadosConLSP\bin\Debug\net8.0\JerarquiaEmpleadosConLSP.dll
+C:\Users\zS23017379\Documents\EJEMPLO PRACTICO\jerarquiaEmpleadosConLSP\bin\Debug\net8.0\JerarquiaEmpleadosConLSP.pdb
+C:\Users\zS23017379\Documents\EJEMPLO PRACTICO\jerarquiaEmpleadosConLSP\obj\Debug\net8.0\JerarquiaEmpleadosConLSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zS23017379\Documents\EJEMPLO PRACTICO\jerarquiaEmpleadosConLSP\obj\Debug\net8.0\JerarquiaEmpleadosConLSP.AssemblyInfoInputs.cache
+C:\Users\zS23017379\Documents\EJEMPLO PRACTICO\jerarquiaEmpleadosConLSP\obj\Debug\net8.0\JerarquiaEmpleadosConLSP.AssemblyInfo.cs
+C:\Users\zS23017379\Documents\EJEMPLO PRACTICO\jerarquiaEmpleadosConLSP\obj\Debug\net8.0\JerarquiaEmpleadosConLSP.csproj.CoreCompileInputs.cache
+C:\Users\zS23017379\Documents\EJEMPLO PRACTICO\jerarquiaEmpleadosConLSP\obj\Debug\net8.0\JerarquiaEmpleadosConLSP.dll
+C:\Users\zS23017379\Documents\EJEMPLO PRACTICO\jerarquiaEmpleadosConLSP\obj\Debug\net8.0\refint\JerarquiaEmpleadosConLSP.dll
+C:\Users\zS23017379\Documents\EJEMPLO PRACTICO\jerarquiaEmpleadosConLSP\obj\Debug\net8.0\JerarquiaEmpleadosConLSP.pdb
+C:\Users\zS23017379\Documents\EJEMPLO PRACTICO\jerarquiaEmpleadosConLSP\obj\Debug\net8.0\JerarquiaEmpleadosConLSP.genruntimeconfig.cache
+C:\Users\zS23017379\Documents\EJEMPLO PRACTICO\jerarquiaEmpleadosConLSP\obj\Debug\net8.0\ref\JerarquiaEmpleadosConLSP.dll

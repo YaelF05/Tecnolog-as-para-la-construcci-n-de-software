@@ -1,0 +1,14 @@
+C:\Users\zS23017379\Documents\EJEMPLO PRACTICO\JerarquiaEmpleados\bin\Debug\net8.0\JerarquiaEmpleados.exe
+C:\Users\zS23017379\Documents\EJEMPLO PRACTICO\JerarquiaEmpleados\bin\Debug\net8.0\JerarquiaEmpleados.deps.json
+C:\Users\zS23017379\Documents\EJEMPLO PRACTICO\JerarquiaEmpleados\bin\Debug\net8.0\JerarquiaEmpleados.runtimeconfig.json
+C:\Users\zS23017379\Documents\EJEMPLO PRACTICO\JerarquiaEmpleados\bin\Debug\net8.0\JerarquiaEmpleados.dll
+C:\Users\zS23017379\Documents\EJEMPLO PRACTICO\JerarquiaEmpleados\bin\Debug\net8.0\JerarquiaEmpleados.pdb
+C:\Users\zS23017379\Documents\EJEMPLO PRACTICO\JerarquiaEmpleados\obj\Debug\net8.0\JerarquiaEmpleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zS23017379\Documents\EJEMPLO PRACTICO\JerarquiaEmpleados\obj\Debug\net8.0\JerarquiaEmpleados.AssemblyInfoInputs.cache
+C:\Users\zS23017379\Documents\EJEMPLO PRACTICO\JerarquiaEmpleados\obj\Debug\net8.0\JerarquiaEmpleados.AssemblyInfo.cs
+C:\Users\zS23017379\Documents\EJEMPLO PRACTICO\JerarquiaEmpleados\obj\Debug\net8.0\JerarquiaEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\zS23017379\Documents\EJEMPLO PRACTICO\JerarquiaEmpleados\obj\Debug\net8.0\JerarquiaEmpleados.dll
+C:\Users\zS23017379\Documents\EJEMPLO PRACTICO\JerarquiaEmpleados\obj\Debug\net8.0\refint\JerarquiaEmpleados.dll
+C:\Users\zS23017379\Documents\EJEMPLO PRACTICO\JerarquiaEmpleados\obj\Debug\net8.0\JerarquiaEmpleados.pdb
+C:\Users\zS23017379\Documents\EJEMPLO PRACTICO\JerarquiaEmpleados\obj\Debug\net8.0\JerarquiaEmpleados.genruntimeconfig.cache
+C:\Users\zS23017379\Documents\EJEMPLO PRACTICO\JerarquiaEmpleados\obj\Debug\net8.0\ref\JerarquiaEmpleados.dll
